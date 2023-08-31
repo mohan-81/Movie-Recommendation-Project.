@@ -5,6 +5,7 @@ Overview
 This project is a movie recommendation system that utilizes data analysis and visualization techniques to provide insights into movie trends, ratings, and earnings. While the project does not implement a full-fledged collaborative filtering recommendation algorithm, it leverages data exploration to provide movie enthusiasts with valuable information for making informed viewing choices.
 
 Project Highlights :- 
+
 Data Collection and Preprocessing : The project starts with collecting movie data from an IMDb dataset. The dataset contains various attributes such as movie title, release year, genre, IMDb rating, gross earnings, and more. The data is preprocessed to handle missing values, convert data types, and ensure consistency.
 
 Data Analysis : Exploratory data analysis (EDA) techniques are applied to gain insights into movie trends. The project explores aspects like distribution of movie ratings, earnings, and runtimes. It identifies the most common genres, release years with the highest number of movies, and more.
@@ -21,7 +22,9 @@ While the current version of the project focuses on exploratory analysis and bas
 
  
 Collaborative Filtering: Implementing collaborative filtering algorithms to offer personalized movie recommendations based on user preferences and similar user behavior.
+
 User Interface: Creating a user-friendly interface where users can input their preferences and receive tailored movie suggestions.
+
 Online Deployment: Deploying the recommendation system as a web application to make it accessible to a wider audience.
 
 
