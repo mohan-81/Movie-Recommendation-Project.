@@ -16,7 +16,7 @@ Insights and Trends : Through data analysis and visualization, the project uncov
 
 Simplified Recommendation : While not implementing a complete recommendation algorithm, the project presents a simplified version of movie recommendations. Users can make more informed decisions about what movies to watch based on their preferences and the insights provided.
 
-Future Development 
+Future Development :-
 
 While the current version of the project focuses on exploratory analysis and basic insights, there is potential for further development:
 
